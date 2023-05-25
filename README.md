@@ -6,7 +6,7 @@ atividade dia 25/5/23
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Repositorio</title>
+    <title>Arataki Itto</title>
 </head>
 <body>
     <p>Ele é conhecido por sua rivalidade unilateral com Kujou Sara depois que ela o derrotou e tomou sua Visão. Um descendente do oni carmesim, Itto também é o líder e fundador da Gangue Arataki.</p>
