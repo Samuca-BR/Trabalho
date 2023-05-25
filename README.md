@@ -11,10 +11,5 @@ atividade dia 25/5/23
 <body>
     <p>Ele é conhecido por sua rivalidade unilateral com Kujou Sara depois que ela o derrotou e tomou sua Visão. Um descendente do oni carmesim, Itto também é o líder e fundador da Gangue Arataki.</p>
     <img src="https://media.tenor.com/bcQ2Rts_VckAAAAS/itto-arataki-itto.gif" alt="Itto" width="500">
-    <img src="https://media.tenor.com/bcQ2Rts_VckAAAAS/itto-arataki-itto.gif" alt="Itto" width="500">
-    <img src="https://media.tenor.com/bcQ2Rts_VckAAAAS/itto-arataki-itto.gif" alt="Itto" width="500">
-    <img src="https://media.tenor.com/bcQ2Rts_VckAAAAS/itto-arataki-itto.gif" alt="Itto" width="500">
-    <img src="https://media.tenor.com/bcQ2Rts_VckAAAAS/itto-arataki-itto.gif" alt="Itto" width="500">
-    <img src="https://media.tenor.com/bcQ2Rts_VckAAAAS/itto-arataki-itto.gif" alt="Itto" width="500">
 </body>
 </html>
